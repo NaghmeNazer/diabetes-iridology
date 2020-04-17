@@ -14,7 +14,7 @@ This work contains codes and datasets corresponding to detecting Informative reg
 # Dataset
   - 88 diabetic and 108 control cases
   - The diabetic subjects were interviewed about their diabetes type, controlling manner and the stage of diabetic retinopathy if existed (for further investigations). The protocol used for data acquisition was under the supervision of Ophthalmologists of Farabi Hospital.
-  - download dataset from [here](https://drive.google.com/file/d/1y7W84iMXkXcL7pnS-wkN2I5V5VIvZrci/view?usp=sharing).
+  - Download dataset from [here](https://drive.google.com/file/d/1y7W84iMXkXcL7pnS-wkN2I5V5VIvZrci/view?usp=sharing).
 
 
 # Citation
