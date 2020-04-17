@@ -2,9 +2,8 @@
 
 This work contains codes and datasets corresponding to detecting Informative regions in iris images related to diabetes.
 
-![](img/Figure1.eps)
-![](img/Figure3.eps)
-![](img/Figure6.eps)
+![](img/Figure1.png)
+![](img/Figure6.png)
 
 # Usage
  - Create a python environment and run pip install -r requirement.txt
@@ -13,8 +12,10 @@ This work contains codes and datasets corresponding to detecting Informative reg
     - Some useful preprocessing modules are in "pre processing" folder.
  - Run Main.py
 
- # Dataset
-
+# Dataset
+  - 88 diabetic and 108 control cases
+  - The diabetic subjects were interviewed about their diabetes type, controlling manner and the stage of diabetic retinopathy if existed (for further investigations). The protocol used for data acquisition was under the supervision of Ophthalmologists of Farabi Hospital.
+  - download dataset from [here](https://drive.google.com/file/d/1tvqFPd4bJtakOlmn-uIA492g2qurRChj/view?usp=sharing).
 
 
 # Citation
