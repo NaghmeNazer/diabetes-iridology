@@ -5,7 +5,7 @@ This work contains codes and datasets corresponding to detecting Informative reg
 ![](img/Figure6.png)
 
 # Usage
- - Create a python environment and run "pip install -r requirement.txt"
+ - Create a python environment and run "pip install -r requirements.txt"
  - Unzip Data.zip. it contains compact version of preprocessed iris images based on different splittings
  (Right eye/ Left eye/ person-based).
     - Some useful preprocessing modules are in "pre processing" folder.
